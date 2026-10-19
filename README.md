@@ -32,7 +32,7 @@ Made for private servers such as **Warmane**.
 ## 📦 Requirements
 
 - World of Warcraft **3.3.5a** (build 12340), e.g. Warmane
-- [**Auctionator**](https://auctionator-addon.com) 2.6.x for 3.3.5. CraftOrBuy reads its scan data.
+- [**Auctionator for WotLK**](https://github.com/ljamov/WotLK-Auctionator) (2.6.x for 3.3.5, with fixes). CraftOrBuy reads its scan data.
 
 ## 🔧 Installation
 
@@ -129,7 +129,7 @@ python build_recipes.py path/to/AtlasLoot_Crafting/crafting.lua ../Data.lua
 
 - Recipe lists and categories from [AtlasLoot Enhanced](https://www.curseforge.com/wow/addons/atlasloot-enhanced) (GPL-2.0)
 - Item and vendor data from [AzerothCore](https://www.azerothcore.org)
-- Price data from [Auctionator](https://auctionator-addon.com) by Zirco
+- Price data from [Auctionator](https://github.com/ljamov/WotLK-Auctionator) by Zirco
 
 ## 👤 Creator
 
