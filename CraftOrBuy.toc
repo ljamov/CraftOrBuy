@@ -1,0 +1,16 @@
+## Interface: 30300
+## Title: CraftOrBuy
+## Notes: Compares crafting cost against Auction House prices, with price history.
+## Author: Kristijan Ljamov
+## X-Website: https://ljamov.com
+## Version: 0.4.2
+## Dependencies: Auctionator
+## SavedVariables: CraftOrBuyDB
+
+Log.lua
+Data.lua
+Core.lua
+Reagents.lua
+History.lua
+UI.lua
+Settings.lua
